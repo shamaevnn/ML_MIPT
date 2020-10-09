@@ -1,5 +1,5 @@
 # ML_MIPT
 
- * my_hw_1 -- LinearRegression
- * Preprocess_home_credit -- предобработка данных, использующаяся во 2,3 дз
- * hw_2+hw_3 -- LogisticRegression + DecisionTree, RandomForest
+ * <b>my_hw_1</b> -- LinearRegression
+ * <b>Preprocess_home_credit</b> -- предобработка данных, использующаяся во 2,3 дз
+ * <b>hw_2+hw_3</b> -- LogisticRegression + DecisionTree, RandomForest
